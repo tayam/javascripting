@@ -16,6 +16,6 @@
 */
 
 
-var n = '128';
-.toString('n');
+var 'n' = '128';
+.toString();
 console.log('n');
