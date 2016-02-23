@@ -20,3 +20,8 @@
 
      javascripting verify function-arguments.js
 */
+
+function math(parameter1, parameter2, parameter3) {
+return parameter1 + parameter2 * parameter3;
+}
+console.log(math(53, 61, 67));
